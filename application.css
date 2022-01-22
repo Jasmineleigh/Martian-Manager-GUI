@@ -1,0 +1,42 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+ 
+.root {
+	-fx-background-color:rgb(230,230,230);
+	-fx-padding: 5px, 5px, 5px, 5px;
+	-fx-hgap: 5px;
+	-fx-vgap: 5px;
+}
+
+.grid {
+	-fx-padding: 5px, 5px, 5px, 5px;
+}
+
+.h_or_v_box {
+    -fx-padding: 5px;
+    -fx-spacing: 5px;
+}
+
+.textFieldCreate {
+	-fx-pref-width: 50px;
+}
+
+.textFieldNum {
+	-fx-pref-width: 50px;
+}
+
+.boxBorder {
+    -fx-border-color: black;
+    -fx-border-insets: 5;
+   
+  
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+ }
+
+.text-area {
+  -fx-font-family: Consolas;
+}
+
+ .list-cell {
+    -fx-padding: 0px;
+}
